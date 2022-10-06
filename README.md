@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/davidferdinand/davidferdinand/master/wave.gif" width="30px">
 
-My Name is David Ferdinand and I'm a cloud platform engineer specializing in observability. I'm from the UK and curretly work at CompareTheMarket. You can find me on [LinkedIn](https://www.linkedin.com/in/david-ferdinand-62516891).
+My Name is David Ferdinand and I'm a cloud platform engineering manager in observability. I'm from the UK and curretly work at CompareTheMarket. You can find me on [LinkedIn](https://www.linkedin.com/in/david-ferdinand-62516891).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
