@@ -2,6 +2,8 @@
 
 My Name is David Ferdinand and I'm a cloud platform engineering manager in observability. I'm from the UK and curretly work at CompareTheMarket. You can find me on [LinkedIn](https://www.linkedin.com/in/david-ferdinand-62516891).
 
+I have started to try to blog some things i find intresting or useful, so check that out on [medium](https://medium.com/@dmferdinand).
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -14,7 +16,7 @@ My Name is David Ferdinand and I'm a cloud platform engineering manager in obser
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
 ## 🌱 I’m currently learning
-I'm currently learning Go as well as expanding my knowledge on kubernetes and opentelemetry.
+I'm currently learning Go as well as expanding my knowledge on kubernetes and opentelemetry. As well as trying to absorb any material possible around engineering management.
 
 
 <!--
